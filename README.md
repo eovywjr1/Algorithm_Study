@@ -29,4 +29,4 @@ File*name = [플랫폼 명]*[문제 ID].py
 | Sprint11        | 23.1.13 - 23.1.26   | [링크](https://github.com/SunghunKim98/Algorithm_Study/wiki/Sprint11) |
 | Sprint12        | 23.1.26 - 23.2.09   | [링크](https://github.com/SunghunKim98/Algorithm_Study/wiki/Sprint12) |
 | Sprint13        | 23.3.2 - 23.3.31   | 
-| Sprint14        | 24.6.8 - 24.7.8   |
+| Sprint14        | 24.6.8 - 24.7.1   |
